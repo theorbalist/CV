@@ -98,6 +98,18 @@ p
     font-size: 1.6rem;
 }
 
+.iframe-container {
+	display: flex;
+	justify-content: space-between;
+	align-items:center;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.iframe-container iframe {
+	margin: 5px;
+}
+
 a,
 a:hover,
 a:focus
