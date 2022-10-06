@@ -47,10 +47,6 @@ body.contains-hero
     padding-top: 100vh;
 }
 
-iframe {
-    display: block;
-    border-style: none;
-}
 
 h1,
 h2,
